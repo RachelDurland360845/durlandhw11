@@ -1,0 +1,4 @@
+#!/bin/bash
+g++ problem3.cpp -o problem3 -lpaho-mqtt3c
+config-pin p8.16 gpio_pu
+
